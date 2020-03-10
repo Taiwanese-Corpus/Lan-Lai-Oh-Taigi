@@ -4,6 +4,8 @@
 # 音檔
 
 04 讀文章蓋趣味
+![04](https://user-images.githubusercontent.com/6355592/76309205-3eef1c00-6307-11ea-91eb-64e0c8a82d90.png)
+
 ```
 mp3/
 └── 04
