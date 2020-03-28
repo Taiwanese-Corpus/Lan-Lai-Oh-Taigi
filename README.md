@@ -1,5 +1,5 @@
 # Lan-Lai-Oh-Taigi
-教育部號名「咱來學臺灣閩南語」學習手冊
+教育部「咱來學臺灣閩南語」[學習手冊](https://language.moe.gov.tw/result.aspx?classify_sn=46&subclassify_sn=506)
 
 # 音檔
 
