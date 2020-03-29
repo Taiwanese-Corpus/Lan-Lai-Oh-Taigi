@@ -20,3 +20,7 @@ leku02:
 
 kingsin_leku02:
 	curl "http://language.moe.gov.tw/upload/download/jts/03%E8%AA%9E%E5%8F%A52(%E9%9F%B3%E6%AA%94)/0302_05_02_27%EF%BC%8A.mp3" -o "mp3/03/02/0302_05_02_27＊.mp3" -fL --create-dirs --retry 100 --retry-delay 10
+
+
+kingsin_bun02:
+	curl "http://language.moe.gov.tw/upload/download/jts/04%E6%96%87%E7%AB%A02(%E9%9F%B3%E6%AA%94)/0402-21-01%EF%BC%8A.mp3" -o "mp3/04/02/0402-21-01＊.mp3" -fL --create-dirs --retry 100 --retry-delay 10
