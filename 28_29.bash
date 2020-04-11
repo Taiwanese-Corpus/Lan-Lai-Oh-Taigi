@@ -1,5 +1,5 @@
 
-for i in $(seq 33 33)
+for i in $(seq 34 34)
 do
   echo "i=$i" 
   arr=("p" "ph" "m" "b" "t" "th" "n" "l" "k" "kh" "h" "ng" "g" "ts" "tsh" "s" "j")
@@ -21,13 +21,14 @@ do
   #p.32
   #arr=("ap" "at" "ak" "ah" "ip" "it" "ik")
   #p.33
-  arr=("ih" "ut" "uh" "eh" "oh" "ok" "ooh" "mh")
+  #arr=("ih" "ut" "uh" "eh" "oh" "ok" "ooh" "mh")
+  #p.34
+  arr=("ngh" "aih" "auh" "iuh" "ueh" "iap" "iat")
   for u in "${arr[@]}"
   do
     if [ ! -f "mp3/01/01/0101-"$i"-"$u".mp3" ]
     then
        echo "$u not ok"
-       exit 0
     fi
   done
 done
