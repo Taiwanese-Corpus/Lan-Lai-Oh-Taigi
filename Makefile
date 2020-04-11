@@ -1,6 +1,7 @@
 phingim:
-	curl "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-03-[01-17].mp3" -o "mp3/01/01/0101_03_#1.mp3" -fL --create-dirs --retry 100 --retry-delay 10
-	curl "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-{04}-[01-06].mp3" -o "mp3/01/01/0101_#1_#2.mp3" -fL --create-dirs --retry 100 --retry-delay 10
+#	curl "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-03-[01-17].mp3" -o "mp3/01/01/0101_03_#1.mp3" -fL --create-dirs --retry 100 --retry-delay 10
+#	curl "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-{04}-[01-06].mp3" -o "mp3/01/01/0101_#1_#2.mp3" -fL --create-dirs --retry 100 --retry-delay 10
+	curl "http://language.moe.gov.tw/upload/download/jts/01%E6%8B%BC%E9%9F%B3(%E9%9F%B3%E6%AA%94)/0101-{05}-[01-08].mp3" -o "mp3/01/01/0101_#1_#2.mp3" -fL --create-dirs --retry 100 --retry-delay 10
 
 gisu01:
 	curl "http://language.moe.gov.tw/upload/download/jts/02%E8%AA%9E%E8%A9%9E1(%E9%9F%B3%E6%AA%94)/0201_[000-999]_{A,B}.mp3" -o "mp3/02/01/0201_#1_#2.mp3" -fL --create-dirs --retry 100 --retry-delay 10
