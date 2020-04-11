@@ -1,5 +1,5 @@
 
-for i in $(seq 34 34)
+for i in $(seq 35 35)
 do
   echo "i=$i" 
   arr=("p" "ph" "m" "b" "t" "th" "n" "l" "k" "kh" "h" "ng" "g" "ts" "tsh" "s" "j")
@@ -23,7 +23,9 @@ do
   #p.33
   #arr=("ih" "ut" "uh" "eh" "oh" "ok" "ooh" "mh")
   #p.34
-  arr=("ngh" "aih" "auh" "iuh" "ueh" "iap" "iat")
+  #arr=("ngh" "aih" "auh" "iuh" "ueh" "iap" "iat")
+  #p.35
+  arr=("iak" "iah" "iok" "ioh" "iauh" "uat" "uah" "uaih")
   for u in "${arr[@]}"
   do
     if [ ! -f "mp3/01/01/0101-"$i"-"$u".mp3" ]
