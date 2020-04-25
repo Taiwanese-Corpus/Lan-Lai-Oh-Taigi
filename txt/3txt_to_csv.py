@@ -1,6 +1,7 @@
 import sys
 import re
 import json
+import csv
 
 tongmia = sys.argv[1]
 tin = []
@@ -41,7 +42,12 @@ with open(tongmia, 'r') as tong:
 			pit = {}
 		else:
 			raise RuntimeError()
-print(json.dumps(tin, indent=2, ensure_ascii=False))
+
+#print(json.dumps(tin, indent=2, ensure_ascii=False))
 
 with open(tongmia+'.csv', 'w') as thoo:
-	pass
+	fieldnames = ['Iah', 'Tsiunn', 'Ho', 'Hanji', 'Lomaji', 'Huagi']
+	thau = csv.DictWriter(thoo, fieldnames=fieldnames)
+	thau.writeheader()
+	thau.writerows(tin)
+			
