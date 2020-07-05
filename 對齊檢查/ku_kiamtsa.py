@@ -27,5 +27,5 @@ with open(tongmia, "r") as tong:
 				"{}\n".format(tshongoo),
 				"{}\n{}\n".format(mih['Hanji'], mih['Lomaji'])
 			)
-			
+			break	
 
