@@ -28,3 +28,10 @@ mp3/
 
 04{冊號}-{頁數}-{文法} 0401-07-A.mp3
 ```
+
+# Khai-huat
+
+## Kiám-tsa 例句用字
+```
+python 對齊檢查/ku_kiamtsa.py txt/3-1.csv
+```
