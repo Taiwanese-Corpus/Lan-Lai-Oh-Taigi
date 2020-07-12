@@ -1,56 +1,91 @@
-這樣、如此學語詞真輕鬆|3
+|3
 001
-阿
-a
+阿 a
 阿
 阿公 (a-kong) 佮阿媽 (a-má)、阿兄 (a-hiann) 佮阿嫂 (a-só)、阿爸 (a-pa) 佮阿母 (a-bú)、阿伯 (a-peh) 佮阿姆 (a-ḿ)、阿舅 (a-kū) 佮阿妗 (a-kīm)、阿叔 (a-tsik) 佮阿嬸 (a-tsím)、阿姑 (a-koo)、阿姊 (a-tsí)、阿姨 (a-î)、阿祖 (a-tsóo)
 002
-仔
-á
+仔 á
 仔、子
 囡仔 (gín-á)
 003
-愛
-ài
+愛 ài
 喜歡、想要、愛
 愛睏 (ài-khùn)、愛耍 (ài-sńg)
 004
-偝
-āinn
+偝 āinn
 背(人)
 偝囡仔 (āinn gín-á)
 005
-沃
-ak
+沃 ak
 澆、淋
 沃花 (ak-hue)、沃雨 (ak-hōo)
 006
-泔
-ám
+泔 ám
 稀的、米湯
 糜傷泔 (muâi siunn ám)
 007
-頷頸
-ām-kún
+頷頸 ām-kún
 脖子、頸項
 雞頷頸 (ke ām-kún)
 008
-按呢
-án-ne
+按呢 án-ne
 這樣、如此
 是按呢 (sī án-ne)
 009
-按怎
-án-tsuánn
+按怎 án-tsuánn
 怎麼、怎樣
 按怎樣 (án-tsuánn-iūnn)
 010
-翁
-ang
+翁 ang
 丈夫
 翁仔某 (ang-á-bóo)
 011
-尪仔
-ang-á
+尪仔 ang-á
 玩偶、人像
 尪仔冊 (ang-á-tsheh)、尪仔物(ang-á-m h)
+|4
+012
+遏 at
+折斷
+遏樹枝 (at tshiū-ki)
+013
+漚 au
+浸泡、醃
+漚衫 (au sann)
+014
+甌 au
+小杯子
+茶甌 (tê-au)、一甌茶 (ts t au tê)、甌仔 (au-á)
+015
+拗 áu
+折、扭曲
+拗斷 (áu-t g)、拗紙 (áu-tsuá)
+016
+漚 àu
+爛、不好
+柴漚去 (tshâ àu--khì)、漚步 (àu-pōo)
+017
+後日 āu--j t
+後天
+大後日 (tuā-āu--j t)
+018
+後壁 āu-piah
+背面、後面
+後壁間 (āu-piah king)
+019
+䆀 bái
+不好、醜
+心情䆀 (sim-tsîng bái)
+020
+目
+眼
+ba̍k
+目屎 (ba̍k-sái)、目眉 (ba̍k-bâi)、目睭 (ba̍k-tsiu)、目鏡 (ba̍k-kiànn)
+021
+挽 bán
+摘、採、採摘
+挽花 (bán hue)、挽喙齒 (bán tshuì-khí)
+022
+蠓 báng
+蚊子
+蠓仔 (báng-á)、蠓仔水 (báng-á-tsuí)、蠓仔香 (báng-á-hiunn)、蠓罩 (báng-tà)
