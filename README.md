@@ -55,5 +55,5 @@ Iah | Tsiunn | Ho | Hanji | Lomaji | Huagi | Imtong
 
 ## Kiám-tsa 例句用字
 ```
-python 對齊檢查/ku_kiamtsa.py txt/3-1.csv
+python src/ku_kiamtsa.py txt/3-1.csv
 ```
