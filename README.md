@@ -1,5 +1,5 @@
 # Lan-Lai-Oh-Taigi
-教育部[「咱來學臺灣閩南語」學習手冊](https://language.moe.gov.tw/result.aspx?classify_sn=46&subclassify_sn=506)
+教育部[「咱來學臺灣閩南語」學習手冊](https://language.moe.gov.tw/uploads/files/17580025581006.pdf)
 
 ![01-phingim](https://user-images.githubusercontent.com/6355592/87241804-2e87b300-c459-11ea-844c-7c77ad4401fc.png) ![02-gisu](https://user-images.githubusercontent.com/6355592/87241805-2f204980-c459-11ea-84d9-cdd27f5cec69.png) ![03-giku](https://user-images.githubusercontent.com/6355592/87241807-2fb8e000-c459-11ea-887c-8a5d93b8366a.png) ![04-bun](https://user-images.githubusercontent.com/6355592/87241840-80303d80-c459-11ea-8944-336a3525a81d.png)
 
